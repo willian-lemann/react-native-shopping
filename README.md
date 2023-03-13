@@ -7,9 +7,10 @@ Ecommerce interface using React Native
 Just download expo go app in your phone, and execute:
 
 ```
-bash
-sdasdsad
+expo start
 ```
+
+Scan the QRcode on screen and you're good to go
 
 ## What I Learned:
 
